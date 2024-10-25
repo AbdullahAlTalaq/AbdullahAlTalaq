@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mohammed Al Talaq</h1>
 <h3 align="center">Passion for Penetration Testing, Reverse Engineering, and Scripting</h3>
 
-- 🔭 I’m currently working on **eJPT**
+- 🔭 I’m currently working on **eCPPTv2**
 
-- 🌱 I’m currently learning **Penetration Testing, Reverse Engineering**
+- 🌱 I’m currently learning **Penetration Testing**
 
-- 👯 I’m looking to collaborate on **Co op training in computer science**
+- 👯 I’m looking for a job
 
 - 📫 How to reach me **talaqabdullah2@gmail.com**
 
